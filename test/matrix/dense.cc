@@ -82,6 +82,7 @@ TEST(DenseMatrixCol, Assign) {
   for (std::size_t r = 0; r < mat.Rows(); ++r) {
     for (std::size_t c = 0; c < mat.Cols(); ++c) {
       ASSERT_EQ(mat.At(r, c), (1 + r) * (1 + c));
+      ASSERT_EQ(mat.Get(r, c), (1 + r) * (1 + c));
     }
   }
 }
