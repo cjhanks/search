@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['defaultvalue_61',['DefaultValue',['../classsearch_1_1NeighborGraph.html#a06241b17376a442928b08e12f03c8700',1,'search::NeighborGraph::DefaultValue()'],['../classsearch_1_1DenseMatrix.html#aeaac4437d3b13d6ef859f85ca2348e70',1,'search::DenseMatrix::DefaultValue()'],['../classsearch_1_1SparseMapMatrix.html#acb135a37f3f147697b0a38ed95ec0c1e',1,'search::SparseMapMatrix::DefaultValue()']]],
+  ['densematrix_62',['DenseMatrix',['../classsearch_1_1DenseMatrix.html#a0e0ba69465fa5e4dbf1ef200ceee0263',1,'search::DenseMatrix::DenseMatrix(std::size_t rows, std::size_t cols, Type default_value={})'],['../classsearch_1_1DenseMatrix.html#a242c07cde253dd6319141c6250a2a34d',1,'search::DenseMatrix::DenseMatrix()'],['../classsearch_1_1DenseMatrix.html#a7bcfbe60165e398aec2412f7427d0b87',1,'search::DenseMatrix::DenseMatrix(DenseMatrix &amp;&amp;)=default']]],
+  ['distance_63',['Distance',['../classsearch_1_1NeighborGraphSolution.html#a49133be5d5995f8ba61a770b56bc965d',1,'search::NeighborGraphSolution::Distance(const NodeType &amp;node) const'],['../classsearch_1_1NeighborGraphSolution.html#a582aee09744ce668a00701f793d882c2',1,'search::NeighborGraphSolution::Distance(const NodeType &amp;fr, const NodeType &amp;to) const']]]
+];
